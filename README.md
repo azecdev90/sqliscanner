@@ -8,11 +8,11 @@
 <p align="center">
 
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/azecdev90/sqliscanner">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/azecdev90/sqliscanner">
+ <img alt="GitHub issues" src="https://img.shields.io/github/issues/azecdev90/sqliscanner">
  <img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/azecdev90/sqliscanner?color=27ae60">
  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/azecdev90/sqliscanner?color=e74c3c">
-  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/azecdev90/sqliscanner">
-    <img alt="GitHub contributors" src="https://img.shields.io/github/license/azecdev90/sqliscanner">
+ <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/azecdev90/sqliscanner">
+ <img alt="GitHub" src="https://img.shields.io/github/license/azecdev90/sqliscanner">
 </p>
 
 ## Table of Contents
@@ -87,7 +87,7 @@ In the next chapter are presented ways how you can contribute to this tool. Ther
 ### Feedback
 Experience you gain after usage of this software gives you insight, not only how this tool works, but what are pros and cons. After usage of this tool, you can share your experience with us about your impression. Your ideas and critiques could help us to get an insight what things could be changed in the next versions. As well, we expect if you notice some bugs during usage of this software to share with us, so we can fix it 
 ### Make pull request
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)  
 Because of our strong beliefs in principles of open source, and the privilege that open-source brought on the productivity of software development, joining our development team and our work on this is welcome. According to that, we encourage and support all Pull requests made with a purpose to improve this tool.
 - Fork project on your local machine
 - Make some changes
