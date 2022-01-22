@@ -20,7 +20,7 @@
 - [Features](#features)
 - [Requirements](#requirements)
 - [How to use](#how-to-use)
-- [Contribute to project](#contributions)
+- [Contribute to project](#contribute-to-project)
   - [Feedback](#feedback)
   - [Make pull request](#pull-request)
   - [Translatations](#translations)
