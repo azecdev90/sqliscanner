@@ -22,7 +22,7 @@
 - [How to use](#how-to-use)
 - [Contribute to project](#contribute-to-project)
   - [Feedback](#feedback)
-  - [Make pull request](#pull-request)
+  - [Make pull request](#make-pull-request)
   - [Translatations](#translations)
 - [Contributors](#contributors)
 - [Support project](#support)
