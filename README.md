@@ -81,7 +81,7 @@ List all commands
 // php sqliscanner.php --help [--help | -h] 
    php sqliscanner.php --help 
    ```
-## Contributions
+## Contribute to project
 In the next chapter are presented ways how you can contribute to this tool. There are three main ways how you can contribute to this project. If your suggestion does not fall under the next three categories, this does not limit you to getting involved in the contribution process. If this is a option with you, do not hesitate to open an issue, and share your idea with us, about how we can make this tool better.
  
 ### Feedback
