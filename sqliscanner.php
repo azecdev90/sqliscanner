@@ -141,7 +141,7 @@ if (count($options) === 1) {
         echo "\e[1;33;40m";
         echo " [ " . date("h:i:s") . " ]";
         echo "\e[0m";
-        echo " Injecting payload to check is URL vulnerable";
+        echo " Injecting payload to check is URL vulnerable ";
         echo "\n";
 
 
@@ -231,7 +231,7 @@ if (count($options) === 2) {
         echo "\e[1;33;40m";
         echo " [ " . date("h:i:s") . " ]";
         echo "\e[0m";
-        echo " Injecting payload to check is URL vulnerable";
+        echo " Injecting payload to check is URL vulnerable ";
         echo "\n";
 
 
@@ -331,7 +331,7 @@ if (count($options) === 3) {
         echo "\e[1;33;40m";
         echo " [ " . date("h:i:s") . " ]";
         echo "\e[0m";
-        echo " Injecting payload to check is URL vulnerable";
+        echo " Injecting payload to check is URL vulnerable ";
         echo "\n";
 
 
@@ -350,7 +350,7 @@ if (count($options) === 3) {
                 echo "\e[1;33;40m";
                 echo " [ " . date("h:i:s") . " ]";
                 echo "\e[0m";
-                echo " Finding vulnurable column";
+                echo " Finding vulnerable column";
                 echo "\e[0m";
                 echo "\n";
                 echo "\e[1;33;40m";
