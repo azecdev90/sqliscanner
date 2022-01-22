@@ -86,7 +86,8 @@ In the next chapter are presented ways how you can contribute to this tool. Ther
  
 ### Feedback
 Experience you gain after usage of this software gives you insight, not only how this tool works, but what are pros and cons. After usage of this tool, you can share your experience with us about your impression. Your ideas and critiques could help us to get an insight what things could be changed in the next versions. As well, we expect if you notice some bugs during usage of this software to share with us, so we can fix it 
-### Pull request
+### Make pull request
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 Because of our strong beliefs in principles of open source, and the privilege that open-source brought on the productivity of software development, joining our development team and our work on this is welcome. According to that, we encourage and support all Pull requests made with a purpose to improve this tool.
 - Fork project on your local machine
 - Make some changes
@@ -95,7 +96,7 @@ Because of our strong beliefs in principles of open source, and the privilege th
 - Code will be a reviewed, and if your code satisies our criteria, we will accept your improvements
 - Your name will be added to the [Contributors list](#contributors)
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+
 
 ### Translations
 
