@@ -12,7 +12,6 @@
  <img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/azecdev90/sqliscanner?color=27ae60">
  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/azecdev90/sqliscanner?color=e74c3c">
  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/azecdev90/sqliscanner">
- <img alt="GitHub" src="https://img.shields.io/github/license/azecdev90/sqliscanner">
 </p>
 
 ## Table of Contents
