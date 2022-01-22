@@ -16,7 +16,7 @@ echo " \n";
 print " [ sqliscanner v1.0.0 ]";
 echo "\e[0m";
 echo "\n";
-echo " [ Intention of this tool is to help and automate process of discovering SQL vulnurability\n";
+echo " [ Intention of this tool is to help and automate process of discovering SQL vulnerability\n";
 echo " and help security experts to prevent them. Users of this software are responsible\n";
 echo " for consequences of usage this software in illegal purpose. ]";
 echo "\n\n\n";
@@ -84,24 +84,24 @@ if (array_key_exists("help", $options) ||  array_key_exists("h", $options)) {
     echo " Examples:";
     echo "\n\n";
     echo "\e[1;33;40m";
-    echo "      Testing is URL vulnurable";
+    echo "      Testing is URL vulnerable";
     echo "\e[0m";
     echo "\n";
-    echo "                   php sqliscanner.php --url http://targetlink/vulnurablePage.php?id=1";
+    echo "                   php sqliscanner.php --url http://targetlink/vulnerablePage.php?id=1";
     echo "\n";
     echo "\e[1;33;40m";
     echo "\n";
     echo "      Return tables from specific database";
     echo "\e[0m";
     echo "\n";
-    echo "                    php sqliscanner.php --url http://targetlink/vulnurablePage.php?id=1 --database users";
+    echo "                    php sqliscanner.php --url http://targetlink/vulnerablePage.php?id=1 --database users";
     echo "\n";
     echo "\e[1;33;40m";
     echo "\n";
     echo "      Display data from specific table and database";
     echo "\e[0m";
     echo "\n";
-    echo "                    php sqliscanner.php -url https://targetlink/vulnurablePage.php?id=1 --database db --table users";
+    echo "                    php sqliscanner.php -url https://targetlink/vulnerablePage.php?id=1 --database db --table users";
     echo "\n\n";
     echo "       <You are free to use short options. I used here long variant, because it is more clear.> ";
 }
@@ -141,7 +141,7 @@ if (count($options) === 1) {
         echo "\e[1;33;40m";
         echo " [ " . date("h:i:s") . " ]";
         echo "\e[0m";
-        echo " Injecting payload to check is URL vulnurable";
+        echo " Injecting payload to check is URL vulnerable";
         echo "\n";
 
 
@@ -150,7 +150,7 @@ if (count($options) === 1) {
             echo " [ " . date("h:i:s") . " ]";
             echo "\e[0m";
             echo "\e[0;32;40m";
-            echo ' Target url is vulnurable';
+            echo ' Target url is vulnerable';
             echo "\e[0m";
             echo "\n";
             for ($i = 1; $i < 15; $i++) {
@@ -160,7 +160,7 @@ if (count($options) === 1) {
                     echo "\e[1;33;40m";
                     echo " [ " . date("h:i:s") . " ]";
                     echo "\e[0m";
-                    echo " Finding vulnurable column";
+                    echo " Finding vulnerable column";
                     echo "\e[0m";
                     echo "\n";
                     echo "\e[1;33;40m";
@@ -231,7 +231,7 @@ if (count($options) === 2) {
         echo "\e[1;33;40m";
         echo " [ " . date("h:i:s") . " ]";
         echo "\e[0m";
-        echo " Injecting payload to check is URL vulnurable";
+        echo " Injecting payload to check is URL vulnerable";
         echo "\n";
 
 
@@ -240,7 +240,7 @@ if (count($options) === 2) {
             echo " [ " . date("h:i:s") . " ]";
             echo "\e[0m";
             echo "\e[0;32;40m";
-            echo ' Target url is vulnurable';
+            echo ' Target url is vulnerable';
             echo "\e[0m";
             echo "\n";
             for ($i = 1; $i < 15; $i++) {
@@ -253,7 +253,7 @@ if (count($options) === 2) {
                     echo "\e[1;33;40m";
                     echo " [ " . date("h:i:s") . " ]";
                     echo "\e[0m";
-                    echo " Finding vulnurable column";
+                    echo " Finding vulnerable column";
                     echo "\n";
                     echo "\e[0m";
                     echo "\e[1;33;40m";
@@ -331,7 +331,7 @@ if (count($options) === 3) {
         echo "\e[1;33;40m";
         echo " [ " . date("h:i:s") . " ]";
         echo "\e[0m";
-        echo " Injecting payload to check is URL vulnurable";
+        echo " Injecting payload to check is URL vulnerable";
         echo "\n";
 
 
@@ -344,7 +344,7 @@ if (count($options) === 3) {
                 echo " [ " . date("h:i:s") . " ]";
                 echo "\e[0m";
                 echo "\e[0;32;40m";
-                echo ' Target url is vulnurable';
+                echo ' Target url is vulnerable';
                 echo "\e[0m";
                 echo "\n";
                 echo "\e[1;33;40m";
