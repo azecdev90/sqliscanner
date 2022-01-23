@@ -74,7 +74,7 @@ Prikazivanje podataka iz specifične baze i tabele
 // php sqliscanner.php --url [urlZaSkeniranje]    [ranjivParam]        [imeBazePodataka]  [imeTabele]
    php sqliscanner.php --url http://targeturl/page.php?id=1 --database projectName --table users
 ```
-List all commands
+Prikaži sve komande
 ```
 // php sqliscanner.php --help [--help | -h] 
    php sqliscanner.php --help 
@@ -88,7 +88,7 @@ Na osnovu vašeg iskustva korištenja ovog softwara, koje će vam dati bolji uvi
 ### Napravi PR zahtjev
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)  
 Zbog naših čvrstih uvjerenja u principe otvorenog koda, i privilegije koje ti principi donose prilikom razvoja softwara, pridruživanje u naš razvojni tim je uvijek dobrodošlo. Prema tome, mi vas ohrabrujemo i podržavamo ukoliko napravite određenu izmjenu, i predložite nam promjene.
-- Povuci granu master na svoj računar
+- Povuci ovaj projekat na svoj računar
 - Implementiraj svoje ideje
 - Uploaduj kod u svoj Github repozitoriji
 - Napravi PR u ovaj repozitoriji
@@ -109,6 +109,7 @@ Ovaj Readme file je napravljen na Engleskom zbog njegove rasprostranjenosti u sv
 
 
 #### Dostupni prevodi
+- [ English ](../README.md)
 
 ## Saradnici
 Ovdje će se nalaziti spisak svih osoba koji su doprinjeli razvoju ovog alata.
