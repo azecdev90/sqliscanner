@@ -119,7 +119,7 @@ Ukoliko ste zadovoljni upotrebom ovog alata, ili vam je pomogao u otkrivanju ran
 ## Licenca
 > Čitav tekst licence možete pogledati [ovdje](https://opensource.org/licenses/MIT)  
 
-Ovaj projekat je licenciran pod pravilima MIT licence.
+Ovaj projekat je licenciran po pravilima MIT licence.
 
 
 
