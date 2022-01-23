@@ -110,6 +110,7 @@ We made Readme file in English because of language prevalence. You can contribut
 - Make Pull request
 
 #### Available translations
+ - [Bosanski](translations/translationBS.md)
 
 ## Contributors
 Here is a list of all contributors to this project.
