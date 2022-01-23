@@ -89,7 +89,7 @@ Experience you gain after usage of this software gives you insight, not only how
 ### Make pull request
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)  
 Because of our strong beliefs in principles of open source, and the privilege that open-source brought on the productivity of software development, joining our development team and our work on this is welcome. According to that, we encourage and support all Pull requests made with a purpose to improve this tool.
-- Fork project on your local machine
+- Fork this project on your local machine
 - Make some changes
 - Push code to your Github repository
 - Make PR to this repository
@@ -103,7 +103,7 @@ Because of our strong beliefs in principles of open source, and the privilege th
 We made Readme file in English because of language prevalence. You can contribute to this project by translating this Readme file to your native language. It is highly important that we translate this project to a wide specter of different languages, and make this tool available for peoples who do not speak the English language.
 
 #### How to translate
-- Fork branch *translation*
+- Fork this project on your local machine
 - In folder translations create file with structure [translation][languagename] [ *translationEN*, *translationDE* ]
 - Translate the document
 - Push your changes to Github
