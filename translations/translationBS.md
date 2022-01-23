@@ -109,7 +109,7 @@ Ovaj Readme file je napravljen na Engleskom zbog njegove rasprostranjenosti u sv
 
 
 #### Dostupni prevodi
-- [ English ](../README.md)
+- [ Engleski ](../README.md)
 
 ## Saradnici
 Ovdje će se nalaziti spisak svih osoba koji su doprinjeli razvoju ovog alata.
